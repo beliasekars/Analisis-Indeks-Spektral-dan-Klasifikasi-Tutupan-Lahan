@@ -1,0 +1,1 @@
+# Analisis-Indeks-Spektral-dan-Klasifikasi-Tutupan-Lahan
